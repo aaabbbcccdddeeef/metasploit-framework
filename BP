@@ -1,0 +1,5 @@
+.api_path ⇒ Object
+
+.api_path_remove ⇒ Object
+
+.registered(app) ⇒ Object
