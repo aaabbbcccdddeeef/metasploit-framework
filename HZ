@@ -1,0 +1,1 @@
+#on_session_close, #on_session_command, #on_session_download, #on_session_filedelete, #on_session_interact, #on_session_output, #on_session_upload
