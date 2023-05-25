@@ -1,0 +1,1 @@
+#initialize(subnet, netmask, gateway, interface = '', metric = 0) ⇒ Route 
